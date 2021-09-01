@@ -14,11 +14,11 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.2.16",
-        "targetId": "arcade"
+        "target": "1.5.58",
+        "targetId": "minecraft"
     },
     "supportedTargets": [
-        "arcade"
+        "minecraft"
     ],
     "preferredEditor": "blocksprj"
 }
